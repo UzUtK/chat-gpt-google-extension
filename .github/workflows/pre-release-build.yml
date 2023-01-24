@@ -1,10 +1,10 @@
 name: Pre-release
-on:
-  push:
-    branches:
+on: xg
+  push: nb
+    branches: bhj
       - main
-jobs:
-  build:
+jobs: hj 
+  build:nkl
     runs-on: ubuntu-22.04
 
     steps:
